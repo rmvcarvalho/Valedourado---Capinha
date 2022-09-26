@@ -38,7 +38,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.5120768"
-     inkscape:cx="116.72688"
+     inkscape:cx="63.158168"
      inkscape:cy="290.99051"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
@@ -56,5 +56,5 @@
      stroke-width="param(outline-width) 0"
      id="ellipse5101"
      inkscape:highlight-color="#6d80df"
-     style="fill:url(#Wavy);fill-opacity:1;stroke:#2e1ac8;stroke-width:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+     style="fill:url(#Wavy);fill-opacity:1;stroke:#2e1ac8;stroke-width:50;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
 </svg>

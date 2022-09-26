@@ -757,7 +757,7 @@ function fnc_project_color(values, context) {
 
 
 
-function exp_ManchasFlorestais_5rule0_eval_expression(context) {
+function exp_ManchasFlorestais_10rule0_eval_expression(context) {
     // "TIPO_EN" = 'Acacias'
 
     var feature = context.feature;
@@ -770,7 +770,7 @@ function exp_ManchasFlorestais_5rule0_eval_expression(context) {
 }
 
 
-function exp_ManchasFlorestais_5rule1_eval_expression(context) {
+function exp_ManchasFlorestais_10rule1_eval_expression(context) {
     // "TIPO_EN" = 'Burned área'
 
     var feature = context.feature;
@@ -783,7 +783,7 @@ function exp_ManchasFlorestais_5rule1_eval_expression(context) {
 }
 
 
-function exp_ManchasFlorestais_5rule2_eval_expression(context) {
+function exp_ManchasFlorestais_10rule2_eval_expression(context) {
     // "TIPO_EN" = 'Undergrowth'
 
     var feature = context.feature;
@@ -796,7 +796,7 @@ function exp_ManchasFlorestais_5rule2_eval_expression(context) {
 }
 
 
-function exp_ManchasFlorestais_5rule3_eval_expression(context) {
+function exp_ManchasFlorestais_10rule3_eval_expression(context) {
     // "TIPO_EN" = 'Bamboo Cane Field'
 
     var feature = context.feature;
@@ -809,7 +809,7 @@ function exp_ManchasFlorestais_5rule3_eval_expression(context) {
 }
 
 
-function exp_ManchasFlorestais_5rule4_eval_expression(context) {
+function exp_ManchasFlorestais_10rule4_eval_expression(context) {
     // "TIPO_EN" = 'Agriculture / Others'
 
     var feature = context.feature;
@@ -822,7 +822,7 @@ function exp_ManchasFlorestais_5rule4_eval_expression(context) {
 }
 
 
-function exp_ManchasFlorestais_5rule5_eval_expression(context) {
+function exp_ManchasFlorestais_10rule5_eval_expression(context) {
     // "TIPO_EN" = 'Undergrowth / Others'
 
     var feature = context.feature;
@@ -835,7 +835,7 @@ function exp_ManchasFlorestais_5rule5_eval_expression(context) {
 }
 
 
-function exp_ManchasFlorestais_5rule6_eval_expression(context) {
+function exp_ManchasFlorestais_10rule6_eval_expression(context) {
     // "TIPO_EN" = 'Old Quarry'
 
     var feature = context.feature;
@@ -848,7 +848,7 @@ function exp_ManchasFlorestais_5rule6_eval_expression(context) {
 }
 
 
-function exp_ManchasFlorestais_5rule7_eval_expression(context) {
+function exp_ManchasFlorestais_10rule7_eval_expression(context) {
     // "TIPO_EN" = 'Pine forest'
 
     var feature = context.feature;
@@ -861,7 +861,7 @@ function exp_ManchasFlorestais_5rule7_eval_expression(context) {
 }
 
 
-function exp_ManchasFlorestais_5rule8_eval_expression(context) {
+function exp_ManchasFlorestais_10rule8_eval_expression(context) {
     // "TIPO_EN" = 'Cork Oaks'
 
     var feature = context.feature;
@@ -874,7 +874,7 @@ function exp_ManchasFlorestais_5rule8_eval_expression(context) {
 }
 
 
-function exp_ManchasFlorestais_5rule9_eval_expression(context) {
+function exp_ManchasFlorestais_10rule9_eval_expression(context) {
     // "TIPO_EN" = 'Cork Oaks / Others'
 
     var feature = context.feature;
@@ -887,7 +887,7 @@ function exp_ManchasFlorestais_5rule9_eval_expression(context) {
 }
 
 
-function exp_ManchasFlorestais_5rule10_eval_expression(context) {
+function exp_ManchasFlorestais_10rule10_eval_expression(context) {
     // "TIPO_EN" = 'Urban / Agriculture'
 
     var feature = context.feature;
@@ -900,7 +900,7 @@ function exp_ManchasFlorestais_5rule10_eval_expression(context) {
 }
 
 
-function exp_ManchasFlorestais_5rule11_eval_expression(context) {
+function exp_ManchasFlorestais_10rule11_eval_expression(context) {
     // "TIPO_EN" = 'Eucalyptus / Others'
 
     var feature = context.feature;
@@ -913,7 +913,7 @@ function exp_ManchasFlorestais_5rule11_eval_expression(context) {
 }
 
 
-function exp_COMFRONTACOES_6rule0_eval_expression(context) {
+function exp_COMFRONTACOES_11rule0_eval_expression(context) {
     // "TIPO_EN" = 'Dirt Path'
 
     var feature = context.feature;
@@ -926,7 +926,7 @@ function exp_COMFRONTACOES_6rule0_eval_expression(context) {
 }
 
 
-function exp_COMFRONTACOES_6rule1_eval_expression(context) {
+function exp_COMFRONTACOES_11rule1_eval_expression(context) {
     // "TIPO_EN" = 'Dirt Path / Road'
 
     var feature = context.feature;
@@ -939,7 +939,7 @@ function exp_COMFRONTACOES_6rule1_eval_expression(context) {
 }
 
 
-function exp_COMFRONTACOES_6rule2_eval_expression(context) {
+function exp_COMFRONTACOES_11rule2_eval_expression(context) {
     // "TIPO_EN" = 'Fence'
 
     var feature = context.feature;
@@ -952,7 +952,7 @@ function exp_COMFRONTACOES_6rule2_eval_expression(context) {
 }
 
 
-function exp_COMFRONTACOES_6rule3_eval_expression(context) {
+function exp_COMFRONTACOES_11rule3_eval_expression(context) {
     // "TIPO_EN" = 'Road'
 
     var feature = context.feature;
@@ -965,7 +965,7 @@ function exp_COMFRONTACOES_6rule3_eval_expression(context) {
 }
 
 
-function exp_COMFRONTACOES_6rule4_eval_expression(context) {
+function exp_COMFRONTACOES_11rule4_eval_expression(context) {
     // "TIPO_EN" = 'Wall'
 
     var feature = context.feature;
@@ -978,7 +978,7 @@ function exp_COMFRONTACOES_6rule4_eval_expression(context) {
 }
 
 
-function exp_COMFRONTACOES_6rule5_eval_expression(context) {
+function exp_COMFRONTACOES_11rule5_eval_expression(context) {
     // "TIPO_EN" = 'Wall / Houses'
 
     var feature = context.feature;
@@ -991,7 +991,7 @@ function exp_COMFRONTACOES_6rule5_eval_expression(context) {
 }
 
 
-function exp_COMFRONTACOES_6rule6_eval_expression(context) {
+function exp_COMFRONTACOES_11rule6_eval_expression(context) {
     // "TIPO_EN" = 'Old Stone Wall'
 
     var feature = context.feature;
@@ -1004,7 +1004,7 @@ function exp_COMFRONTACOES_6rule6_eval_expression(context) {
 }
 
 
-function exp_COMFRONTACOES_6rule7_eval_expression(context) {
+function exp_COMFRONTACOES_11rule7_eval_expression(context) {
     // "TIPO_EN" = 'N/'
 
     var feature = context.feature;
@@ -1017,7 +1017,7 @@ function exp_COMFRONTACOES_6rule7_eval_expression(context) {
 }
 
 
-function exp_COMFRONTACOES_6rule8_eval_expression(context) {
+function exp_COMFRONTACOES_11rule8_eval_expression(context) {
     // "TIPO_EN" = 'Road Slope'
 
     var feature = context.feature;
